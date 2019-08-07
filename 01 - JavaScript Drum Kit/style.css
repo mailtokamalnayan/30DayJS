@@ -1,7 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://www.apple.com/v/apple-card/a/images/overview/manifesto_gradient__fssxqj5s3imq_medium.jpg)
-    bottom center;
+  background: url("../bg.jpg") bottom center;
   background-size: cover;
 }
 
